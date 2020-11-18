@@ -1,2 +1,2 @@
 # general
-General work
+General personal work and projects
